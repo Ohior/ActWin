@@ -1,0 +1,4 @@
+[*] Display window[*] Add buttons "Sleep, Hibernate, Restart, Shutdown, Activate window" to window
+[*] Add functionality to buttons
+[] Run Application in background 
+[] Perfom AW cleaning when about to shutdown or restart
